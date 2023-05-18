@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 f0a2b3cdb09250e9aba2ace090018aeeaeca905e antonbiluta <antonbiluta@gmail.com> 1684329601 +0300	commit (initial): Add main.py
+f0a2b3cdb09250e9aba2ace090018aeeaeca905e 0c44c84442aeb09db671ac2941a02be4a362dc4a antonbiluta <antonbiluta@gmail.com> 1684329618 +0300	commit: Add dockerfile
+0c44c84442aeb09db671ac2941a02be4a362dc4a 5612fbd17785d594cc4f591f0533bffe8cfc71d6 antonbiluta <antonbiluta@gmail.com> 1684329639 +0300	commit: Add docker-compose file
+5612fbd17785d594cc4f591f0533bffe8cfc71d6 6023d469714af9aee279e40bb0da33619933462d antonbiluta <antonbiluta@gmail.com> 1684329895 +0300	commit: Add init.sql
+6023d469714af9aee279e40bb0da33619933462d 208ad0fa145b8d78bcbfef46c1543c27d94d5bb7 antonbiluta <antonbiluta@gmail.com> 1684329914 +0300	commit: Delete 'ID'
+208ad0fa145b8d78bcbfef46c1543c27d94d5bb7 fd3d40c749ae799d52ae50a67115cc0f5bffbdee antonbiluta <antonbiluta@gmail.com> 1684330250 +0300	commit: Change clean_data func
+fd3d40c749ae799d52ae50a67115cc0f5bffbdee f5c60ed05dcb29fb1738c88f00b47ed64a31d2f8 antonbiluta <antonbiluta@gmail.com> 1684334902 +0300	commit: Add example.png
+f5c60ed05dcb29fb1738c88f00b47ed64a31d2f8 54199b75c28b1e9b3a6dc454956a58808c913119 antonbiluta <antonbiluta@gmail.com> 1684334941 +0300	commit: minor fix (60 sec to 10 sec)
+54199b75c28b1e9b3a6dc454956a58808c913119 ef8dc3c34f2d8da6e53c2d99c71df94cd7e004f2 antonbiluta <antonbiluta@gmail.com> 1684334962 +0300	commit: Add example
+ef8dc3c34f2d8da6e53c2d99c71df94cd7e004f2 d7c58ab8276a0f0ff9b341729e200e1ec9243a36 antonbiluta <antonbiluta@gmail.com> 1684340293 +0300	commit: Add example with trigger
+d7c58ab8276a0f0ff9b341729e200e1ec9243a36 c2afd3737a301229170cb6d32793de6b8eeeeddd antonbiluta <antonbiluta@gmail.com> 1684340313 +0300	commit: add func and trigger
+c2afd3737a301229170cb6d32793de6b8eeeeddd 32a948b6906577c26bce22332577b89066815abe antonbiluta <antonbiluta@gmail.com> 1684340365 +0300	commit: add valid user and password
